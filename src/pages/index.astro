@@ -2,8 +2,9 @@
 import Layout from "../layouts/Layout.astro";
 import NavGrid from "../components/NavGrid/NavGrid.astro";
 import CategorieListing from "../components/Category/CategoryListing.astro";
-import Quote from "../components/global/Quote.astro";
+import ContactList from "../components/Contacts/ContactList.astro";
 import DynImage from "../components/global/DynImage.astro";
+// import Quote from "../components/global/Quote.astro";
 
 
 import "../scss/variables.scss";
@@ -12,7 +13,7 @@ const guillaumeQuote = `Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Ut et massa mi. Aliquam in hendrerit urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna.`
 ---
 
-<Layout title="RTL POP CORN SHOW">
+<Layout title="RTL sous le sapin">
 
   <main>
 
@@ -28,9 +29,11 @@ Ut et massa mi. Aliquam in hendrerit urna. Lorem ipsum dolor sit amet, consectet
 
     <NavGrid />
 
-    <Quote slug="guillaume" quote={guillaumeQuote} author="Guillaume Collard" />
+    <!-- <Quote slug="guillaume" quote={guillaumeQuote} author="Guillaume Collard" /> -->
 
     <CategorieListing />
+
+    <ContactList />
   
   </main>
   

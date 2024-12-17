@@ -1,0 +1,66 @@
+---
+import ContactItem from "./ContactItem.astro";
+
+const contacts = [
+  {
+    title: "Eddy Duhoux",
+    phone: "0487 33 62 66",
+    email: "eduhoux@rtl.be",
+  },
+  {
+    title: "Arnaud Bergmann",
+    phone: "0472 57 31 30",
+    email: "abergmann@rtl.be",
+  },
+  {
+    title: "Laura Muser",
+    phone: "XXXX XXXX XXXX",
+    email: "lmuser@rtl.be",
+  },
+];
+---
+
+<div class="c-contacts">
+  <h3 class="c-contacts__title">Contacts</h3>
+
+  <ul class="c-contacts__list">
+    {contacts.map((contact) => (
+      <ContactItem
+        title={contact.title}
+        phone={contact.phone}
+        email={contact.email}
+      />
+    ))}
+  </ul>
+</div>
+
+<style lang="scss" is:global>
+  .c-contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 10vh;
+  }
+
+  .c-contacts__title {
+    font-size: clamp(2.5rem, 7vw, 5rem);
+    font-weight: 800;
+    line-height: 1;
+    text-align: center;
+    margin: 0;
+    color: var(--color-accent);
+    filter: drop-shadow(0px 4px 12px rgba(235, 65, 61, 0.4));
+  }
+
+  .c-contacts__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+</style>

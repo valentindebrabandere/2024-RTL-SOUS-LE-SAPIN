@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 
-const baseUrl = "/ozuhfrhqbodsc44pfjfsens44indfqznrpi4094902";
+const baseUrl = "/dp-noel-2024";
 
 // https://astro.build/config
 export default defineConfig({
