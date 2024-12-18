@@ -11,4 +11,5 @@ export interface CategoryType {
   video?: string;
   quote?: Quote[]; 
   childrens?: CategoryType[]; 
+  showType?: string;
 }

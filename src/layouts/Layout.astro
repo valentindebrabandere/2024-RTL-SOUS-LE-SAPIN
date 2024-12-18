@@ -2,7 +2,7 @@
 interface Props {
   title: string;
 }
-const baseUrl = import.meta.env.BASE_URL;
+const baseUrl: string = import.meta.env.BASE_URL;
 
 const fontFace = `
   @font-face {
@@ -35,8 +35,9 @@ const fontFace = `
   }
 `;
 
-const { title } = Astro.props;
+const bgPatternImage = `url(${baseUrl}assets/pattern.svg)`;
 
+const { title } = Astro.props;
 ---
 
 <!doctype html>
@@ -45,22 +46,23 @@ const { title } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="description" content="Astro description" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href=`${baseUrl}favicon.svg` />
+    <link rel="icon" type="image/svg+xml" href={`${baseUrl}favicon.svg`} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
-    <style set:html={fontFace}></style> 
+    <style set:html={fontFace}></style>
   </head>
   <body>
     <slot />
   </body>
 </html>
-<style is:global>
+<style is:global define:vars={{bgPatternImage}}>
+  html {
+    scroll-behavior: smooth;
+  }
 
-html{
-  scroll-behavior: smooth;
-}
+  body {
+    position: relative;
 
-body {
     background-color: var(--color-white);
 
     font-family: var(--font-family);
@@ -73,6 +75,20 @@ body {
     padding-bottom: 40vh;
 
     overflow-x: clip;
+  }
+
+  body:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 3%;
+    background-image: var(--bgPatternImage);
+    background-repeat: repeat;
+    background-size: 1050px;
+    z-index: -1;
   }
 
   button {

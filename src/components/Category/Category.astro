@@ -6,13 +6,10 @@ import ShowListing from "../ShowCard/ShowListing.astro";
 import MoviesListing from "../ShowCard/MoviesListing.astro";
 
 import type { CategoryType } from "../../types/Category";
-import { Children } from "react";
 
 interface Props {
   category: CategoryType;
 }
-
-const movieTag = "les-films";
 
 const { category } = Astro.props;
 
@@ -21,14 +18,16 @@ const shows = getShowsByCategory(category.slug);
 const hasChildren =
   category.childrens !== undefined && category.childrens.length > 0;
 
-const isMoviesCategory = category.slug === movieTag; // Check if the category slug is "les-films"
+// Check for showType parameter
+const showType = category.showType || "default"; // Default to "default" if no showType is provided
 ---
 
 <div class="l-container">
   <div class="c-category" id={category.slug}>
     <CategorieTitle category={category} />
 
-    {isMoviesCategory ? (
+    {/* Render MoviesListing if showType is "movie", otherwise ShowListing */}
+    {showType === "movie" ? (
       <MoviesListing shows={shows} />
     ) : hasChildren ? (
       <>
@@ -36,7 +35,8 @@ const isMoviesCategory = category.slug === movieTag; // Check if the category sl
           <div class="c-category c-category__child">
             <CategorieTitle category={child} child={true} />
 
-            {child.slug === movieTag ? (
+            {/* Check the child's showType */}
+            {child.showType === "movie" ? (
               <MoviesListing shows={getShowsByCategory(child.slug)} />
             ) : (
               <ShowListing shows={getShowsByCategory(child.slug)} />

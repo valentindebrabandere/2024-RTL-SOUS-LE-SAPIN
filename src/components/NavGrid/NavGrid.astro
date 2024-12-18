@@ -16,8 +16,7 @@ const categoriesData = categories;
 
   .c-nav-grid {
     width: 100%;
-
-    max-width: 1040px;
+    max-width: 1440px;
     margin: 0 auto;
     margin-top: -100px;
     padding: 0;
@@ -30,45 +29,52 @@ const categoriesData = categories;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 18px;
+    gap: 42px;
+    row-gap: 60px;
     padding: 0;
   }
 
   @media screen and (min-width: $mq-desktop) {
+
     .c-navgrid__list {
-      display: grid;
-      grid-template-columns: repeat(6, 1fr);
-
-      grid-template-rows: repeat(3, 1fr);
-
-      grid-template-areas:
-        ". item1 item1 item2 item2 ."
-        "item3 item3 item4 item4 item5 item5"
-        ". item6 item6 item7 item7 .";
-
       margin: 0 auto;
 
-      li:nth-child(1) {
-        grid-area: item1;
-      }
-      li:nth-child(2) {
-        grid-area: item2;
-      }
-      li:nth-child(3) {
-        grid-area: item3;
-      }
-      li:nth-child(4) {
-        grid-area: item4;
-      }
-      li:nth-child(5) {
-        grid-area: item5;
-      }
-      li:nth-child(6) {
-        grid-area: item6;
-      }
-      li:nth-child(7) {
-        grid-area: item7;
-      }
+
+
+      //----------------------
+      // pop corn style
+      //----------------------
+      // display: grid;
+      // grid-template-columns: repeat(6, 1fr);
+
+      // grid-template-rows: repeat(3, 1fr);
+
+      // grid-template-areas:
+      //   ". item1 item1 item2 item2 ."
+      //   "item3 item3 item4 item4 item5 item5"
+      //   ". item6 item6 item7 item7 .";
+
+      // li:nth-child(1) {
+      //   grid-area: item1;
+      // }
+      // li:nth-child(2) {
+      //   grid-area: item2;
+      // }
+      // li:nth-child(3) {
+      //   grid-area: item3;
+      // }
+      // li:nth-child(4) {
+      //   grid-area: item4;
+      // }
+      // li:nth-child(5) {
+      //   grid-area: item5;
+      // }
+      // li:nth-child(6) {
+      //   grid-area: item6;
+      // }
+      // li:nth-child(7) {
+      //   grid-area: item7;
+      // }
     }
   }
 </style>

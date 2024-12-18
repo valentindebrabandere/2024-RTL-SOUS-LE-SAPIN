@@ -22,7 +22,7 @@ fs.createReadStream("./data/datas.csv", { encoding: "latin1" }) // Change encodi
       // Create a JSON object for each row
       const jsonObject = {
         title: data["titre"] || "",
-        slug: data["slug"] || "",
+        slug: (data["slug"] || "").replace(/\s+/g, ""),
         channels: data["chaines"]
           ? data["chaines"].split(",").map((item) => item.trim())
           : [],

@@ -42,31 +42,40 @@ Ut et massa mi. Aliquam in hendrerit urna. Lorem ipsum dolor sit amet, consectet
 <style lang="scss" is:global>
 
     .c-header {
+      --border-gap : 2vw;
       position: relative;
-      width: 100vw;
-      height: 90vh;
+      width:  calc( 100vw - var(--border-gap) * 2);
+      height: calc( 90vh - var(--border-gap) * 2);
+
+      box-sizing: border-box;
+      border-radius: var(--border-gap);
+
+      margin:  var(--border-gap);
+
       display: flex;
       align-items: center;
       justify-content: center;
 
+      overflow: hidden;
 
-      &::before {
-        --border-radius: 50px;
+      // white cache
+      // &::before {
+      //   --border-radius: 50px;
 
-        content: "";
-        position: absolute;
+      //   content: "";
+      //   position: absolute;
 
-        left: 0;
-        bottom: 0;
+      //   left: 0;
+      //   bottom: 0;
 
-        width: 100%;
-        height: var(--border-radius);
+      //   width: 100%;
+      //   height: var(--border-radius);
 
-        border-radius: var(--border-radius) var(--border-radius) 0 0;
+      //   border-radius: var(--border-radius) var(--border-radius) 0 0;
         
-        z-index: 1;
-        background-color: var(--color-white);
-      }
+      //   z-index: 1;
+      //   background-color: var(--color-white);
+      // }
 
 
       img {

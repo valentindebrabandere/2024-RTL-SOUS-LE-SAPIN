@@ -3,19 +3,20 @@
     "title": "C'est les fêtes !",
     "slug": "divertissement",
     "order": 1,
-    "icons": ["test", "test2"]
+    "icons": ["pine", "gift"]
   },
   {
     "title": "RTL play",
     "slug": "les-films",
     "order": 2,
-    "icons": ["test", "test2"]
+    "icons": ["pine", "gift"],
+     "showType": "movie"
   },
   {
     "title": "Bel RTL",
     "slug": "bel",
     "order": 3,
-    "icons": ["test", "test2"],
+    "icons": ["pine", "gift"],
     "childrens": [
       {
         "title": "Votre soirée de noël",
@@ -33,12 +34,13 @@
     "title": "Radio Contact",
     "slug": "radio-contact",
     "order": 4,
-    "icons": ["test", "test2"]
+    "icons": ["pine", "gift"]
   },
   {
     "title": "Coming soon",
     "slug": "tres-bientot",
     "order": 5,
-    "icons": ["test", "test2"]
+    "icons": ["pine", "gift"],
+    "showType": "movie"
   }
 ]

@@ -14,6 +14,7 @@ const show = Astro.props;
       altText=`Affiche de ${show.title}`
       width={1200}
       height={1800}
+      className={show.slug}
     />
   </div>
 
@@ -22,7 +23,7 @@ const show = Astro.props;
     altText=`Affiche de ${show.title}`
     width={1200}
     height={1800}
-    className="c-show-card__backdrop"
+    className={show.slug + " c-show-card__backdrop"}
   />
 
   {

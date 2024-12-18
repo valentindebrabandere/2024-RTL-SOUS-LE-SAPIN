@@ -11,6 +11,7 @@ const show = Astro.props;
       altText=`Affiche de ${show.title}`
       width={1200}
       height={1800}
+      className={show.slug}
     />
   </div>
   <DynImage
@@ -18,7 +19,7 @@ const show = Astro.props;
     altText=`Affiche de ${show.title}`
     width={1200}
     height={1800}
-    className="c-movie-card__backdrop"
+    className={show.slug + " c-movie-card__backdrop"}
   />
 </div>
 

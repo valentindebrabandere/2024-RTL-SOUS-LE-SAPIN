@@ -46,7 +46,7 @@
   },
   {
     "title": "Pixels ",
-    "slug": "pixels ",
+    "slug": "pixels",
     "channels": [
       "play"
     ],
@@ -106,7 +106,7 @@
   },
   {
     "title": "Big Fish",
-    "slug": "fish ",
+    "slug": "fish",
     "channels": [
       "play"
     ],
@@ -151,7 +151,7 @@
   },
   {
     "title": "La Reine des Neiges ",
-    "slug": "neige ",
+    "slug": "neige",
     "channels": [
       "play"
     ],
@@ -166,7 +166,7 @@
   },
   {
     "title": "Le grand bêtisier - Meilleurs voeux ",
-    "slug": "x",
+    "slug": "ludo",
     "channels": [
       "tvi"
     ],
@@ -177,7 +177,7 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Pour célébrer les fêtes de Noël dans la joie et la bonne humeur, les animateurs ont rendez-vous dans le bureau du patron de RTL pour leurs vux de fins dannées. Des vux qui ne se dérouleront pas comme prévu !  Tout au long de cette soirée placée sous le signe du rire, Sandrine Corman, Emilie Dupuis, Ludo Daxhelet et leurs collègues vont enchainer les gaffes ! Pendant ce bêtisier plein de surprises, vous allez découvrir les meilleurs moments de cette année 2024 : directs qui dérapent, jeux télé en folie, chutes et boulettes en tous genre... Aucunes de vos émissions favorites na été épargnées.\nInstallez-vous confortablement, et détendez-vous, RTL-TVI soccupe de tout."
+    "description": "Pour célébrer les fêtes de Noël dans la joie et la bonne humeur, les animateurs ont rendez-vous dans le bureau du patron de RTL pour leurs vux de fin d'année. Des vux qui ne se dérouleront pas comme prévu ! Tout au long de cette soirée placée sous le signe du rire, Sandrine Corman, Emilie Dupuis, Ludo Daxhelet et leurs collègues vont enchaîner les gaffes ! Pendant ce bêtisier plein de surprises, vous allez découvrir les meilleurs moments de cette année 2024 : directs qui dérapent, jeux télé en folie, chutes et boulettes en tous genres... Aucune de vos émissions favorites na été épargnée. Installez-vous confortablement et détendez-vous, RTL-TVI soccupe de tout."
   },
   {
     "title": "Noël en famille (Gala Pablo Andres) ",
@@ -194,10 +194,10 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Préparez-vous à vivre une soirée magique et hilarante, où Pablo Andres réunit vos humoristes préférés pour célébrer Noël comme jamais ! Pour l'occasion, des invités exceptionnels, parmi lesquels Booder, Jeanfi Janssens, Antoine Donneaux, Véronique Gallo, Viktor Vincent, et Olivier de Benoist, ainsi que d'autres guest surprises, monteront sur scène.\nAu programme : éclats de rire garantis avec du stand-up, des sketchs, et des moments inoubliables, le tout dans une ambiance chaleureuse et féerique, parfaite pour célébrer la magie de Noël. Et pour rendre cette soirée encore plus spéciale, Sandrine Dans orchestrera l'événement."
+    "description": "Préparez-vous à vivre une soirée magique et hilarante, où Pablo Andres réunit vos humoristes préférés pour célébrer Noël comme jamais ! Pour l'occasion, des invités exceptionnels, parmi lesquels Booder, Jeanfi Janssens, Antoine Donneaux, Véronique Gallo, Viktor Vincent, et Olivier de Benoist, ainsi que d'autres invités surprises, monteront sur scène.\nAu programme : éclats de rire garantis avec du stand-up, des sketchs, et des moments inoubliables, le tout dans une ambiance chaleureuse et féerique, parfaite pour célébrer la magie de Noël. Et pour rendre cette soirée encore plus spéciale, Sandrine Dans orchestrera l'événement."
   },
   {
-    "title": "Donovan Bluffe Les Stars 1 ",
+    "title": "Donovan Bluffe Les Stars - première partie",
     "slug": "donovan",
     "channels": [
       "tvi"
@@ -211,7 +211,7 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Pour débuter, direction Paris !\nDonovan surprend José Garcia en ouvrant une bouteille de champagne d'une manière totalement inattendue. Puis, il se rend dans les cuisines d'Hélène Darroze, Cheffe étoilée, pour un tour savoureux où les épices seront au coeur de la performance.\nDe retour à Bruxelles, Donovan croise le chemin du fabuleux Booder pour des moments empreints de charme et de rires. Enfin, il conclut en beauté avec Laurent Baffie, dans un numéro époustouflant qui mêle technologie de pointe et dextérité avec les cartes.\nEntre éclats de rires, émerveillement et magie, « Donovan bluffe les stars » promet des instants mémorables à ne pas manquer !"
+    "description": "Pour débuter, direction Paris !\nDonovan surprend José Garcia en ouvrant une bouteille de champagne d'une manière totalement inattendue. Puis, il se rend dans les cuisines d'Hélène Darroze, Cheffe étoilée, pour un tour savoureux où les épices seront au cur de la performance.\nDe retour à Bruxelles, Donovan croise le chemin du fabuleux Booder pour des moments empreints de charme et de rires. Enfin, il conclut en beauté avec Laurent Baffie, dans un numéro époustouflant qui mêle technologie de pointe et dextérité avec les cartes.\nEntre éclats de rire, émerveillement et magie, « Donovan bluffe les stars » promet des instants mémorables à ne pas manquer !"
   },
   {
     "title": "Place Royale - Windsor, l'année des épreuves ! ",
@@ -228,11 +228,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "2024 a été lannée de toutes les épreuves pour la famille royale britannique !\nLa maladie les a touchés de plein fouet ! Les Britanniques ont tremblé à lannonce des cancers du Roi Charles III et de Kate Middleton.\nMais loin de resserrer les liens, ces mauvaises nouvelles nont pas permis de réconcilier les Princes William et Harry. \nRetour sur lannée la plus douloureuse depuis la mort de Lady Di."
+    "description": "2024 a été lannée de toutes les épreuves pour la famille royale britannique !\nLa maladie les a touchés de plein fouet ! Les Britanniques ont tremblé à lannonce du cancer du Roi Charles III et de celui de Kate Middleton.\nMais loin de resserrer les liens, ces mauvaises nouvelles nont pas permis de réconcilier les princes William et Harry.\nRetour sur lannée la plus douloureuse depuis la mort de Lady Di."
   },
   {
     "title": "Vu à la Télé - les 10 ans volume 1",
-    "slug": "x",
+    "slug": "vu-la-tele",
     "channels": [
       "tvi"
     ],
@@ -243,11 +243,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Cette année, Vu à la télé fête ses 10 ans. Depuis 10 ans, nos canapés en ont commenté des programmes, mais ils vous ont aussi fait entrer dans leur foyer en toute intimité. Pour marquer le coup, nos accros de la zapette vont se retrouver le temps de deux soirées exceptionnelles pour se remémorer ensemble les moments forts de l'année 2024, mais aussi de nombreux souvenirs qui ont marqué 10 ans d'émission. Couples, familles ou amis, ils vous ont touché ou même fait rire. Et si depuis 10 ans certains canapés restent fidèles au poste, d'autres iconiques pourraient bien revenir pour marquer cet anniversaire. "
+    "description": "Cette année, Vu à la télé fête ses 10 ans.Depuis 10 ans, nos canapés ont commenté bien des programmes, mais ils vous ont aussi invités dans leur foyer en toute intimité. Pour marquer le coup, nos accros de la zapette vont se réunir le temps de deux soirées exceptionnelles pour se remémorer ensemble les moments forts de l'année 2024, mais aussi de nombreux souvenirs qui ont marqué 10 ans d'émission. Couples, familles ou amis, ils vous ont touché ou même fait rire. Et si, depuis 10 ans, certains canapés restent fidèles au poste, d'autres, plus iconiques, pourraient bien revenir pour marquer cet anniversaire."
   },
   {
     "title": "Le grand bétisier - Une récéption de folie ",
-    "slug": "x",
+    "slug": "dans",
     "channels": [
       "tvi",
       "play"
@@ -259,10 +259,10 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Pour démarrer en beauté lannée 2025, vos animateurs préférés vont prendre les commandes de la réception de RTL. Pour le meilleur et pour le rire.\nPrêts à tout pour vous faire passer une soirée inoubliable, Sandrine Dans, Jean-Michel Zecca, Anne Ruwet, Maria Del Rio et plein dautres encore, vont enchainer les gaffes et les fous rires.\nTout au long de cette soirée complètement folle, ils vont vous dévoiler des images inédites de cette année : lapsus, moments de solitude, délires de stars et fous rires en cascade,. 2024 a été riche en séquences hilarantesPersonne nen sortira indemne."
+    "description": "Pour démarrer en beauté lannée 2025, vos animateurs préférés vont prendre les commandes de lémission de RTL. Pour le meilleur et pour le rire !\nPrêts à tout pour vous faire passer une soirée inoubliable, Sandrine Dans, Jean-Michel Zecca, Anne Ruwet, Maria Del Rio et plein dautres encore vont enchaîner les gaffes et les fous rires.\nTout au long de cette soirée complètement folle, ils vont vous dévoiler des images inédites de l'année 2024 : lapsus, moments de solitude, délires de stars et fous rires en cascade 2024 a été riche en séquences hilarantes Personne nen sortira indemne."
   },
   {
-    "title": "Donovan Bluffe Les Stars 2 ",
+    "title": "Donovan Bluffe Les Stars - seconde partie",
     "slug": "donovan",
     "channels": [
       "tvi",
@@ -277,11 +277,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Dans ce deuxième épisode spectaculaire, Donovan Bluffe se lance dans une quête magique encore plus audacieuse en rencontrant des icônes de la scène française et internationale. Préparez-vous à des moments intenses, bluffants et parfois... dangereux !\n\nTout commence avec Jean Dujardin, l'acteur oscarisé, que Donovan parvient à retrouver pour un numéro unique et risqué, en hommage à la sortie de Zorro. Entre mystère et adrénaline, Jean Dujardin sera totalement subjugué par ce tour époustouflant.\n\nPuis, Donovan croise le chemin du talentueux chanteur Amir. Cette fois, il sort un vinyle pour orchestrer un tour empreint de mélodie et de magie.\n\nPour finir en beauté, retour à Paris pour une rencontre avec léquipe des Grosses Têtes. Face à Laurent Ruquier, Donovan se met littéralement en danger avec un numéro audacieux, avant de plonger dans les pensées de Jeanfi Janssens grâce à une pilule aussi mystérieuse quintrigante.\n\nUne conclusion surprise grandiose pour un épisode riche en émotions et en surprises !\n\n\"Donovan Bluffe les Stars\", cest une aventure magique et inoubliable, où limpossible devient réalité ! "
+    "description": "Dans ce deuxième épisode spectaculaire, Donovan Bluffe Les Stars se lance dans une quête magique encore plus audacieuse en rencontrant des icônes de la scène française et internationale. Préparez-vous à des moments intenses, bluffants et parfois... dangereux !\nTout commence avec Jean Dujardin, l'acteur oscarisé, que Donovan parvient à rencontrer pour un numéro unique et risqué, en hommage à la sortie du film Zorro. Entre mystère et adrénaline, Jean Dujardin sera totalement subjugué par ce tour époustouflé.\nPuis, Donovan croise le chemin du talentueux chanteur Amir. Cette fois, il sort un vinyle pour orchestrer un tour empreint de mélodie et de magie.\nPour finir en beauté, direction Paris pour une rencontre avec léquipe des Grosses Têtes. Face à Laurent Ruquier, Donovan se met littéralement en danger avec un numéro audacieux, avant de plonger dans les pensées de Jeanfi Janssens grâce à une pilule aussi mystérieuse quintrigante.\nUne conclusion grandiose pour un épisode riche en émotions et en révélations !\nDonovan Bluffe Les Stars, cest une aventure magique et inoubliable, où limpossible devient réalité !\n\n\"Donovan Bluffe les Stars\", cest une aventure magique et inoubliable, où limpossible devient réalité ! "
   },
   {
     "title": "Place Royale - Les Reines de demain ",
-    "slug": "alix",
+    "slug": "alix_2",
     "channels": [
       "tvi",
       "play"
@@ -295,11 +295,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "En Europe, une nouvelle génération se prépare à prendre les rênes des monarchies, et une petite révolution est en marche. Fini le temps où seuls les princes montaient sur le trône ! \nEn Belgique, comme dans dautres pays, lavenir sera féminin. Chez nous, la princesse Élisabeth succédera un jour à son père, le roi Philippe, marquant une nouvelle ère dans lhistoire royale ! \nQui sont ces nouvelles Reines en devenir ? Comment se préparent-elles à leurs futures responsabilités et comment vont-elles apprendre à communiquer, à lère des réseaux sociaux ?"
+    "description": "En Europe, une nouvelle génération se prépare à prendre les rênes des monarchies, et une petite révolution est en marche. Fini le temps où seuls les princes accédaient au trône !\nEn Belgique, comme dans dautres pays, lavenir sera féminin. Chez nous, la princesse Élisabeth succédera un jour au trône, à son père, le roi Philippe, marquant une nouvelle ère dans lhistoire royale !\nQui sont ces nouvelles reines en devenir ? Comment se préparent-elles à leurs futures responsabilités et comment vont-elles apprendre à communiquer à lère des réseaux sociaux ?"
   },
   {
     "title": "Vu à la Télé - les 10 ans volume 2 ",
-    "slug": "x",
+    "slug": "vu-la-tele",
     "channels": [
       "tvi",
       "play"
@@ -311,11 +311,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Cette année, Vu à la télé fête ses 10 ans. Depuis 10 ans, nos canapés en ont commenté des programmes, mais ils vous ont aussi fait entrer dans leur foyer en toute intimité. \nPour marquer le coup, nos accros de la zapette vont se retrouver le temps de deux soirées exceptionnelles pour se remémorer ensemble les moments forts de l'année 2024, mais aussi de nombreux souvenirs qui ont marqué 10 ans d'émission. Couples, familles ou amis, ils vous ont touché ou même fait rire. Et si depuis 10 ans certains canapés restent fidèles au poste, d'autres iconiques pourraient bien revenir pour marquer cet anniversaire. \n"
+    "description": "Cette année, Vu à la télé fête ses 10 ans. Depuis 10 ans, nos canapés ont commenté de nombreux programmes, mais ils vous ont aussi fait entrer dans leur foyer en toute intimité.\nPour marquer le coup, nos accros de la zapette vont se réunir le temps de deux soirées exceptionnelles pour se remémorer ensemble les moments forts de l'année 2024, mais aussi de nombreux souvenirs qui ont marqué 10 ans d'émission.\nQue vous soyez couples, familles ou amis, ils vous ont touchés ou même fait rire. Et si, depuis 10 ans, certains canapés restent fidèles au poste, dautres, plus iconiques, pourraient bien revenir pour marquer cet anniversaire.\"\n"
   },
   {
     "title": "All I want for Christmas ",
-    "slug": "x",
+    "slug": "all-i-want",
     "channels": [
       "contact"
     ],
@@ -363,11 +363,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Cest vous qui prenez les commandes de la programmation musicale de bel RTL. Jean-Mi vous propose un artiste et vous choisissez de poursuivre ou dinterrompre lécoute de ses titres. Envoyez STOP ou ENCORE par SMS au 6679 pour décider de la musique de votre radio !"
+    "description": "Cest vous qui prenez les commandes de la programmation musicale de bel RTL. Jean-Mi vous propose un artiste et vous choisissez de continuer ou dinterrompre lécoute de ses titres.\nEnvoyez STOP ou ENCORE par SMS au 6679 pour choisir la musique de votre radio !"
   },
   {
     "title": "La route des vacances ",
-    "slug": "x",
+    "slug": "vacances",
     "channels": [
       "bel"
     ],
@@ -381,7 +381,7 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "La Route des Vacances revient sur Bel RTL, cette fois pour vous accompagner pendant les fêtes de Noël ! Animée par Bérénice et Tom Bourgueil, l'émission vous plonge dans une ambiance chaleureuse et festive, avec des musiques de saison, des échanges joyeux et des anecdotes de Noël. Chaque épisode est une véritable parenthèse de convivialité pour égayer vos trajets, avec des invités surprises, des conseils pratiques pour profiter des fêtes, et bien sûr, une bonne dose de bonne humeur. Un rendez-vous incontournable pour rendre vos déplacements encore plus magiques pendant cette période de Noël !"
+    "description": "La Route des Vacances revient sur Bel RTL, cette fois pour vous accompagner pendant les fêtes de Noël ! Animée par Bérénice et Tom Bourgueil, l'émission vous plonge dans une ambiance chaleureuse et festive, avec des musiques de saison, des échanges joyeux, et des anecdotes de Noël.\nChaque épisode est une véritable parenthèse de convivialité pour égayer vos trajets, avec des invités surprises, des conseils pratiques pour profiter des fêtes, et bien sûr, une bonne dose de joie.\nUn rendez-vous incontournable pour rendre vos déplacements encore plus féeriques pendant cette période de Noël !"
   },
   {
     "title": "La chanson bel RTL 2024 ",
@@ -398,7 +398,7 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Le 31 décembre, on remonte le classement sur bel RTL pour découvrir VOTRE titre préféré. \nQuelle est LA chanson qui vous a le plus fait vibrer cette année ? Pierre Garnier, Indochine, Sabrina Carpenter, Santa, Coldplay, Héléna ou Benson Boone  quel est lartiste ou le groupe qui a interprété LA chanson de lannée 2024 ! A vous de le décider en votant pour vos chansons préférées. \nPour participer, rendez-vous sur le site www.belrtl.be\n"
+    "description": "Le 31 décembre, on découvre le classement sur bel RTL pour découvrir VOTRE titre préféré.\nQuelle est LA chanson qui vous a le plus fait vibrer cette année ? Parmi Pierre Garnier, Indochine, Sabrina Carpenter, Santa, Coldplay, Héléna ou Benson Boone, quel est lartiste ou le groupe qui a interprété LA chanson de lannée 2024 ? Cest à vous de décider en votant pour vos chansons préférées.\nPour participer, rendez-vous sur le site www.belrtl.be.\n"
   },
   {
     "title": "En route pour le réveillon ",
@@ -416,11 +416,11 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Qui de mieux que Sophie Pendeville et Sandrine Corman pour vous ambiancer à quelques heures du passage à lan neuf ? Que vous soyez sur la route ou dans les derniers préparatifs, à la maison ou chez des amis, Sandrine et Sophie vous accompagnent avec leur humour et leur folie pour votre pré-réveillon de la Saint Sylvestre ! "
+    "description": "Qui de mieux que Sophie Pendeville et Sandrine Corman pour mettre lambiance à quelques heures du passage à lan neuf ?\nQue vous soyez sur la route, dans les derniers préparatifs, à la maison ou chez des amis, Sandrine et Sophie vous accompagnent avec leur humour et leur folie, pour votre pré-réveillon de la Saint Sylvestre !"
   },
   {
     "title": "bel RTL dance party",
-    "slug": "x",
+    "slug": "dance-party",
     "channels": [
       "bel"
     ],
@@ -431,7 +431,7 @@
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Paillettes, cotillons et bonne humeur, bel RTL fait vibrer votre soirée de réveillon ! Des tubes et que des tubes pour votre soirée de fête en mode Dance Party. \nPoussez les meubles, montez le son, bel RTL met de lambiance dans votre salon ! \n\n "
+    "description": "Paillettes, cotillons et bonne humeur, bel RTL fait vibrer votre soirée de réveillon !\nDes tubes, et encore des tubes, pour votre soirée de fête en mode Dance Party.\nPoussez les meubles, montez le son, bel RTL met de lambiance dans votre salon !\n\n "
   },
   {
     "title": "La tête dans les étoiles ",
@@ -453,7 +453,7 @@
   },
   {
     "title": "Elvis, un Belge à Memphis",
-    "slug": "x",
+    "slug": "elvis",
     "channels": [
       "tvi"
     ],
@@ -468,7 +468,7 @@
   },
   {
     "title": "Appels d'urgence",
-    "slug": "x",
+    "slug": "urgence",
     "channels": [
       "tvi"
     ],
@@ -483,7 +483,7 @@
   },
   {
     "title": "Marié au premier regard ",
-    "slug": "x",
+    "slug": "maries-au-premier-regard",
     "channels": [
       "tvi"
     ],
@@ -498,7 +498,7 @@
   },
   {
     "title": "Panda ",
-    "slug": "x",
+    "slug": "panda",
     "channels": [
       "tvi"
     ],
