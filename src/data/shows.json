@@ -168,7 +168,8 @@
     "title": "Le grand bêtisier - Meilleurs voeux ",
     "slug": "ludo",
     "channels": [
-      "tvi"
+      "tvi",
+      "play"
     ],
     "date": "Le 25 décembre à 19h50",
     "presenters": [],
@@ -183,11 +184,13 @@
     "title": "Noël en famille (Gala Pablo Andres) ",
     "slug": "pablo",
     "channels": [
-      "tvi"
+      "tvi",
+      "play"
     ],
     "date": "Le 25 décembre à 20h30",
     "presenters": [
-      "Pablo Andres"
+      "Pablo Andres",
+      "Sandrine Dans"
     ],
     "categorie": [
       "divertissement"
@@ -200,7 +203,8 @@
     "title": "Donovan Bluffe Les Stars - première partie",
     "slug": "donovan",
     "channels": [
-      "tvi"
+      "tvi",
+      "play"
     ],
     "date": "Le 26 décembre à 19h50",
     "presenters": [
@@ -217,9 +221,10 @@
     "title": "Place Royale - Windsor, l'année des épreuves ! ",
     "slug": "alix",
     "channels": [
-      "tvi"
+      "tvi",
+      "play"
     ],
-    "date": "Le 28 décembre",
+    "date": "Le 28 décembre à 19h50",
     "presenters": [
       "Alix Battard"
     ],
@@ -234,9 +239,10 @@
     "title": "Vu à la Télé - les 10 ans volume 1",
     "slug": "vu-la-tele",
     "channels": [
-      "tvi"
+      "tvi",
+      "play"
     ],
-    "date": "Le 29 décembre ",
+    "date": "Le 29 décembre à 19h50",
     "presenters": [],
     "categorie": [
       "divertissement"
@@ -252,7 +258,7 @@
       "tvi",
       "play"
     ],
-    "date": "Le 31 décembre 19h50",
+    "date": "Le 31 décembre à 19h50",
     "presenters": [],
     "categorie": [
       "divertissement"
@@ -268,7 +274,7 @@
       "tvi",
       "play"
     ],
-    "date": "Le 2 Janvier à 19h50",
+    "date": "Le 2 janvier à 19h50",
     "presenters": [
       "Donovan"
     ],
@@ -286,7 +292,7 @@
       "tvi",
       "play"
     ],
-    "date": "Le 4 janvier ",
+    "date": "Le 4 janvier à 19h50",
     "presenters": [
       "Alix Battard"
     ],
@@ -304,7 +310,7 @@
       "tvi",
       "play"
     ],
-    "date": "Le 5 Janvier à 19h50",
+    "date": "Le 5 janvier à 19h50",
     "presenters": [],
     "categorie": [
       "divertissement"
@@ -349,6 +355,58 @@
     "description": "Luca invite 10 auditeurs à passer le réveillon de Noel en studio.\nAu programme : ambiance Noel, cadeaux, apéro dinatoire, "
   },
   {
+    "title": "Good Morning Awards ",
+    "slug": "awards",
+    "channels": [
+      "contact"
+    ],
+    "date": "Le 31 décembre de 19h à minuit",
+    "presenters": [
+      "L'équipe du Good morning"
+    ],
+    "categorie": [
+      "radio-contact"
+    ],
+    "exluPlay": false,
+    "nouveau": false,
+    "description": "Léquipe du Good Morning a réuni tous les animateurs pour une remise de prix décalée.\n\nAu programme : le meilleur de la playlist de Tonton pour faire la fête et la remise de trophées afin de récompenser le meilleur du pire de lannée."
+  },
+  {
+    "title": "Contact DJs Nouvel an ",
+    "slug": "dj",
+    "channels": [
+      "contact"
+    ],
+    "date": "Le 1er janvier de minuit à 4h",
+    "presenters": [
+      "Henri PFR",
+      "Lost frequencies",
+      "Simon b",
+      "Maya cox"
+    ],
+    "categorie": [
+      "radio-contact"
+    ],
+    "exluPlay": false,
+    "nouveau": false,
+    "description": "Les 4 fantastiques débarquent juste après lémission « Good Morning Awards » pour prolonger la fête jusquà 4h."
+  },
+  {
+    "title": "Hit Contact de l'année",
+    "slug": "hit",
+    "channels": [
+      "contact"
+    ],
+    "date": "Le 1er janvier de 15h à 17h",
+    "presenters": [],
+    "categorie": [
+      "radio-contact"
+    ],
+    "exluPlay": false,
+    "nouveau": false,
+    "description": "Rerouvez les 30 meilleurs titres de l'année 2024."
+  },
+  {
     "title": "Stop ou encore Noël ",
     "slug": "jean",
     "channels": [
@@ -359,7 +417,7 @@
       "Jean-Mi Godfuron"
     ],
     "categorie": [
-      "votre-soiree-de-noel"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
@@ -371,13 +429,13 @@
     "channels": [
       "bel"
     ],
-    "date": "Le 26 décembre de 10h à 13h",
+    "date": "Les 26 et 27 décembre, les 30 et 31 décembre ainsi que les 2 et 3 janvier de 10h à 13h",
     "presenters": [
       "Bérénice",
       "Tom Bourgueil"
     ],
     "categorie": [
-      "votre-soiree-de-noel"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
@@ -394,7 +452,7 @@
       "Charles Tavolieri"
     ],
     "categorie": [
-      "votre-nouvel-an"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
@@ -412,7 +470,7 @@
       "Sandrine Corman"
     ],
     "categorie": [
-      "votre-nouvel-an"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
@@ -427,7 +485,7 @@
     "date": "Le 31 décembre de 20h à 1h ",
     "presenters": [],
     "categorie": [
-      "votre-nouvel-an"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
@@ -441,15 +499,15 @@
     ],
     "date": "Le 1er janvier de 9h à 12h ",
     "presenters": [
-      "Fabrice Collignon",
+      "Vincent Maréchal",
       "Patricia Millis"
     ],
     "categorie": [
-      "votre-nouvel-an"
+      "bel"
     ],
     "exluPlay": false,
     "nouveau": false,
-    "description": "Que vous réservent les astres pour lannée à venir ? Quels événements pourraient marquer votre quotidien en 2025 ? Fabrice Collignon reçoit Patricia Millis qui vous dévoile ses prévisions pour les 12 signes du Zodiaque."
+    "description": "Que vous réservent les astres pour lannée à venir ? Quels événements pourraient marquer votre quotidien en 2025 ? Vincent Maréchal reçoit Patricia Millis qui vous dévoile ses prévisions pour les 12 signes du Zodiaque."
   },
   {
     "title": "Elvis, un Belge à Memphis",

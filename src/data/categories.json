@@ -10,25 +10,13 @@
     "slug": "les-films",
     "order": 2,
     "icons": ["pine", "gift"],
-     "showType": "movie"
+    "showType": "movie"
   },
   {
     "title": "Bel RTL",
     "slug": "bel",
     "order": 3,
-    "icons": ["pine", "gift"],
-    "childrens": [
-      {
-        "title": "Votre soirée de noël",
-        "slug": "votre-soiree-de-noel",
-        "order": "a"
-      },
-      {
-        "title": "Votre nouvel an",
-        "slug": "votre-nouvel-an",
-        "order": "b"
-      }
-    ]
+    "icons": ["pine", "gift"]
   },
   {
     "title": "Radio Contact",
